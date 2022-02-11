@@ -1,3 +1,3 @@
-# Platinum Finance
+# Nerd Finance
 
-This project contains the main features of the Platinum Finance application.
+This project contains the main features of the Nerd Finance application.
